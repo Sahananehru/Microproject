@@ -1,0 +1,72 @@
+/* label{
+    font-weight: bold;
+    color: #b0ab0f;
+}
+h1{
+    text-align: center;
+    background-color: gainsboro;
+    color: #b0ab0f;
+    padding: 20px;
+
+}
+body{
+    background-color:white;
+}
+.container{
+    display: flex;
+
+}
+.left-content{
+    width: 150%;
+    border: 2px solid black;
+    
+
+}
+.right-content{
+    width: 150%;
+    border: 2px solid black;
+}
+tr{
+    color: black;
+} */
+/* General styles */
+body {
+    background-color: white;
+    margin: 0;
+    font-family: Arial, sans-serif; 
+}
+h1 {
+    text-align: center;
+    font-family: initial;
+    background-color: aliceblue;
+    color: #b0ab0f;
+    padding: 20px;
+    margin: 0;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    width: 100%;
+}
+.left-content, .right-content {
+    flex: 1; 
+    border: 2px solid black;
+    padding: 10px;
+    margin: 0 10px; 
+    box-sizing: border-box;
+    border-radius: 25px;
+}
+.left-content{
+    background-color: aliceblue;
+}
+.right-content{
+    background-color: aliceblue;
+}
+label {
+    font-weight: bold;
+    color: black;
+}
+tr {
+    color: black;
+}

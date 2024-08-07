@@ -1,0 +1,40 @@
+{
+  "patients": [
+    {
+      "id": "404",
+      "patName": "shanmathi",
+      "patward": "ICU",
+      "patdisease": "Cancer"
+    },
+    {
+      "id": "405",
+      "patName": "Gayathri",
+      "patward": "17",
+      "patdisease": "Fever"
+    },
+    {
+      "id": "406",
+      "patName": "Darunika",
+      "patward": "18",
+      "patdisease": "Colour blindness"
+    },
+    {
+      "id": "407",
+      "patName": "sahana",
+      "patward": "17",
+      "patdisease": "arithrits"
+    },
+    {
+      "id": "408",
+      "patName": "farhana",
+      "patward": "20",
+      "patdisease": "well"
+    },
+    {
+      "id": "403",
+      "patName": "sasi",
+      "patward": "15",
+      "patdisease": "well"
+    }
+  ]
+}
